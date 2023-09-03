@@ -17,5 +17,6 @@ The software part implements:
 - algorithm of defense and evasion of the enemy from the player's bullets flying at him;
 - level generator;
 - the game level contains bonuses that can be used to improve characteristics (speed, reload time, additional life, invulnerability).
+- game menu with the ability to save and load the game, change settings, etc.
 
 ![image](https://github.com/Makc711/GameShooter/assets/40514121/cecc871f-a30c-4efd-a970-068539483613)
