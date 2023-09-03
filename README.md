@@ -1,6 +1,6 @@
 # GameShooter
 
-It is a shooter game developed in C++. It is realized on STM32F746-DISCOVERY debug board with 4.3" LCD and capacitive touchscreen.
+It is a shooter game developed in C++. It is realized on STM32F746G-DISCOVERY debug board with 4.3" LCD and capacitive touchscreen.
 
 In hardware implemented:
 - multi-touchscreen (processing of several touches at a time);
