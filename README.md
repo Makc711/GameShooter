@@ -1,4 +1,5 @@
 # GameShooter
+Author: Maxim Rusanov (maxim.rusanof@gmail.com)
 
 It is a shooter game developed in C++. It is realized on STM32F746G-DISCOVERY debug board with 4.3" LCD and capacitive touchscreen.
 
